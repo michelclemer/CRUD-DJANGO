@@ -1,1 +1,0 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAO+1esVEd9wjEaJ4AKLgBz/tEC3Tc9nPT9DgmE+P9Pi michelclemermonteirodeolino@gmail.com
